@@ -1,0 +1,34 @@
+.swipeButtons {
+  position: fixed;
+  bottom: 10px;
+  display: flex;
+  justify-content: space-evenly;
+  width: 100%;
+}
+
+.swipeButtons {
+  background-color: white;
+  box-shadow: 0px 10px 53px 0px rgba(0, 0, 0, 0.3) !important;
+}
+
+.swipeButton {
+  padding: 3vw;
+  border-radius: 50%;
+  box-shadow: 0px 10px 53px 0px rgba(0, 0, 0, 0.3) !important;
+}
+
+.repeat {
+  color: orange !important;
+}
+.left {
+  color: red !important;
+}
+.star {
+  color: lightblue !important;
+}
+.right {
+  color: lightgreen !important;
+}
+.flash {
+  color: lightpink !important;
+}
